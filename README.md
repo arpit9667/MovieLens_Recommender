@@ -7,6 +7,6 @@ The approaches to personalized recommender systems that were deployed in this pr
 The purpose of this project is to perform and evaluate modeling techniques with the intention of building a recommender system based upon the lowest error results. This report provides the details of the data set, the various algorithms experimented, and the performance results that dictated the final recommender system our team decided to build.
 
 #Team Members
-[Arpit Agrawal] (https://www.linkedin.com/in/taihuali)
-[Abhijeet Mishra] (https://www.linkedin.com/in/charles-yu-4b046369)
-[Deepak Kumar Singh] (https://www.linkedin.com/in/tammie-nguyen-19061a12)
+Arpit Agrawal (17ucs035)
+Abhijeet Mishra (17ucc004)
+Deepak Kumar Singh (17ucc020)
