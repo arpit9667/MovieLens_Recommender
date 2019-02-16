@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import numpy as np
 import pandas as pd
 get_ipython().run_line_magic('matplotlib', 'notebook')
@@ -63,9 +57,6 @@ ratings.sort_values('rating_numbers', ascending=False).head(10)
 starwars_user_ratings = moviemat['Star Wars (1977)']
 liar_liar_user_ratings =moviemat['Liar Liar (1997)']
 print(starwars_user_ratings.head())
-
-
-# In[ ]:
 
 
 
